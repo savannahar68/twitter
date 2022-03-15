@@ -1,4 +1,4 @@
-# twitter
+# Design twitter in 1 hour
 LLD for twitter - https://leetcode.com/problems/design-twitter/
 
 
